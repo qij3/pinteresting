@@ -42,6 +42,9 @@ gem 'spring',        group: :development
 #Paperclip and ImageMagick
 gem 'paperclip', github: 'thoughtbot/paperclip' 
 
+# AWS
+gem 'aws-sdk'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
